@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Satriyo,<br><br>I am a DevOps Engineer with a unique background that combines a career shift to IT with a strong belief that
+<p align="justify">I'm Satriyo,<br><br>I am a DevOps Engineer with a unique background that combines a career shift to IT with a strong belief that
 IT is the key to achieving future business goals. With a vision that IT drives competitive advantage and
 sustainable growth, I have proven myself to be a valuable contributor to the team. Despite my relatively new
 experience, I have successfully accelerated website and application development, as well as improved IT
@@ -44,7 +44,9 @@ sustainable success to the company.<br><br>- 🧑‍💼 I’m working as DevOps
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="(https://skillicons.dev/icons?i=html,css)" height="40" alt="css"  />
+  <img src="(https://skillicons.dev/icons?i=css)" height="40" alt="css"  />
+  <img width="12" />
+  <img src="(https://skillicons.dev/icons?i=html)" height="40" alt="html"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
