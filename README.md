@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhSatriyo.MuhSatriyo&"  />
+  <img src="https://img.shields.io/badge/visitor-150-blue"  />
 </div>
 
 ###
