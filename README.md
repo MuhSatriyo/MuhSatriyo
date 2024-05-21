@@ -1,14 +1,14 @@
 ## Hi there 👋
 
 <h1 align="center">I'm Muhammad Satriyo Yuwono</h1>
-<h1 align="center">I am a DevOps Engineer with a unique background that combines a career shift to IT with a strong belief that
+<p align="center">I am a DevOps Engineer with a unique background that combines a career shift to IT with a strong belief that
 IT is the key to achieving future business goals. With a vision that IT drives competitive advantage and
 sustainable growth, I have proven myself to be a valuable contributor to the team. Despite my relatively new
 experience, I have successfully accelerated website and application development, as well as improved IT
 infrastructure performance to support larger business objectives. My expertise includes advanced tools such
 as Grafana, Jenkins, GitHub, and Kubernetes, along with managing microservice-based infrastructure. I am
 ready to face complex challenges in the continuously evolving digital era and am committed to bringing
-sustainable success to the company.</h1>
+sustainable success to the company.</p>
 
 <!--
 **MuhSatriyo/MuhSatriyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
