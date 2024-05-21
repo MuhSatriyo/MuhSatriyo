@@ -93,7 +93,9 @@ sustainable success to the company.<br><br>- 🧑‍💼 I’m working as DevOps
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
 <img src="https://raw.githubusercontent.com/MuhSatriyo/MuhSatriyo/main/snake.svg" alt="Snake animation" />
+
 ###
 
 <div align="center">
