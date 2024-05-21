@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhSatriyo&label=Visitors&color=0e75b6&style=flat"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhSatriyo.MuhSatriyo&"  />
 </div>
 
 ###
@@ -94,13 +94,13 @@ sustainable success to the company.<br><br>- 🧑‍💼 I’m working as DevOps
 
 ###
 
-<img src="https://raw.githubusercontent.com/galantixa/galantixa/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MuhSatriyo/MuhSatriyo/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galantixa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=galantixa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhSatriyo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhSatriyo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -113,7 +113,7 @@ sustainable success to the company.<br><br>- 🧑‍💼 I’m working as DevOps
 
 <div align="center">
   <a href="https://open.spotify.com/user/fjg80qb86brtlt89vbzk58dtg">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fjg80qb86brtlt89vbzk58dtg&count=1&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xpkjdo5f4uth2rzcgssmisq44y&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
