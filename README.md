@@ -5,24 +5,15 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nugrahafajarrr/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-satriyo-yuwono/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/galantixa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://instagram.com/galantixa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/Galantixa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=galantixa.galantixa&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhSatriyo.visitor-badge)"  />
 </div>
 
 ###
@@ -35,7 +26,15 @@
 
 ###
 
-<p align="left">I'm Galantixa,<br><br>I am a DevOps engineer who has enthusiasm and determination to explore the world of Information Technology. With a focus on the role of a DevOps Engineer, I have a strong dream to start an exciting career in the IT industry.<br><br>- 🔭 I’m working as DevOps Engineer<br>- 📚 I'm currently learning DevOps & Backend Engineering<br>- ⚡ I Love Philosophy</p>
+<p align="left">I'm Satriyo,<br><br>I am a DevOps Engineer with a unique background that combines a career shift to IT with a strong belief that
+IT is the key to achieving future business goals. With a vision that IT drives competitive advantage and
+sustainable growth, I have proven myself to be a valuable contributor to the team. Despite my relatively new
+experience, I have successfully accelerated website and application development, as well as improved IT
+infrastructure performance to support larger business objectives. My expertise includes advanced tools such
+as Grafana, Jenkins, GitHub, and Kubernetes, along with managing microservice-based infrastructure. I am
+ready to face complex challenges in the continuously evolving digital era and am committed to bringing
+sustainable success to the company.
+.<br><br>- 🧑‍💼 I’m working as DevOps Engineer<br>- 👨‍🎓 I'm currently learning DevOps & Web Programing<br>- 🧭 I Love Book About Self Improvement</p>
 
 ###
 
@@ -58,10 +57,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
@@ -74,13 +69,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -90,7 +79,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
 </div>
 
 ###
