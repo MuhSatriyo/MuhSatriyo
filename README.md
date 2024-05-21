@@ -97,7 +97,6 @@ sustainable success to the company.<br><br>- 🧑‍💼 I’m working as DevOps
 <p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/MuhSatriyo/MuhSatriyo/output-3d-contrib/night.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/MuhSatriyo/MuhSatriyo/output-3d-contrib/day.svg" />
 	</picture>
 </p>
 
