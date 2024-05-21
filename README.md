@@ -106,7 +106,7 @@ sustainable success to the company.<br><br>- 🧑‍💼 I’m working as DevOps
 ###
 
 <div align="center">
-  <img height="400" src="https://media.giphy.com/media/iu7B5XKE6NsE8/giphy.gif"  />
+  <img height="400" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
 </div>
 
 ###
