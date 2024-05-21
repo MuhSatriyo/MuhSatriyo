@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhSatriyo.visitor-badge)"  />
+  <img src="https://komarev.com/ghpvc/?username=MuhSatriyo&label=Visitors&color=0e75b6&style=flat"  />
 </div>
 
 ###
@@ -48,6 +48,8 @@ sustainable success to the company.<br><br>- 🧑‍💼 I’m working as DevOps
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
@@ -71,6 +73,8 @@ sustainable success to the company.<br><br>- 🧑‍💼 I’m working as DevOps
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
