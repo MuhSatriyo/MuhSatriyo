@@ -94,7 +94,7 @@ sustainable success to the company.<br><br>- 🧑‍💼 I’m working as DevOps
 
 ###
 
-<img src="https://raw.githubusercontent.com/MuhSatriyo/github-profile-3d-contrib/main/docs/profile-night-view.svg" alt="animation" />
+<img src="https://raw.githubusercontent.com/MuhSatriyo/MuhSatriyo/github-profile-3d-contrib/main/docs/profile-night-view.svg" alt="animation" />
 
 ###
 
