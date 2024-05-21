@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Satriyo,<br><br>I am a DevOps Engineer with a unique background that combines a career shift to IT with a strong belief that
+<p align="justify">I'm Satriyo,<br><br>I am a DevOps Engineer with a unique background that combines a career shift to IT with a strong belief that
 IT is the key to achieving future business goals. With a vision that IT drives competitive advantage and
 sustainable growth, I have proven myself to be a valuable contributor to the team. Despite my relatively new
 experience, I have successfully accelerated website and application development, as well as improved IT
