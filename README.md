@@ -37,6 +37,10 @@ sustainable success to the company.<br><br>- 🧑‍💼 I’m working as DevOps
 
 ###
 
+<p>- 🔥 My Professional Motto: Always learn new things and new skills because the world keeps evolving, so don't get left behind.</p>
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
