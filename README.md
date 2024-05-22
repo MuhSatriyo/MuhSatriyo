@@ -1,4 +1,4 @@
-![image](https://github.com/MuhSatriyo/MuhSatriyo/assets/106216995/f5c14335-f943-4f72-afa6-2533be17b1af)<div align="center">
+<div align="center">
   <img height="400" src="image/BG_2_0.5x-transformed.jpeg"  />
 </div>
 
