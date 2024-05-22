@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/MuhSatriyo/MuhSatriyo/assets/106216995/f5c14335-f943-4f72-afa6-2533be17b1af)<div align="center">
   <img height="400" src="image/BG_2_0.5x-transformed.jpeg"  />
 </div>
 
@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/visitor-235-blue"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhSatriyo.MuhSatriyo&"  />
 </div>
 
 ###
@@ -47,8 +47,6 @@ sustainable success to the company.<br><br>- 🧑‍💼 I’m working as DevOps
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html"  />
@@ -64,6 +62,8 @@ sustainable success to the company.<br><br>- 🧑‍💼 I’m working as DevOps
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
