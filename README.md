@@ -53,6 +53,8 @@ sustainable success to the company.<br><br>- 🧑‍💼 I’m working as DevOps
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
